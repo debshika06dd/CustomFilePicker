@@ -1,6 +1,6 @@
 # CustomFilePicker 📂
 *A custom file uploader built with HTML, CSS, and JavaScript that replaces the default file input with a styled button and displays the selected file name.*
-***Try Uploading your at:*** *https://debshika06dd.github.io/CustomFilePicker/*
+***Try Uploading your files at:*** *https://debshika06dd.github.io/CustomFilePicker/*
 
 **🚀 Demo**
 Click the Upload File button → choose a file → the button text changes to the selected file name.
